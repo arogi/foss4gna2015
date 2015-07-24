@@ -1,3 +1,3 @@
 Presentations  
 
-* [FOSS4GNA talk](https://github.com/arogi/talks/blob/master/foss4gnaOptimization.pdf) ([part2](https://github.com/arogi/talks/blob/master/foss4gnaOptimization.pdf)) given by Alan Glennon and Carlos Baez on 11 March 2015 in Burlingame, California.
+* [FOSS4G-NA talk](https://2015.foss4g-na.org/session/open-source-tools-spatial-optimization) given by [Alan Glennon](https://github.com/glennon) and Carlos Baez on 11 March 2015 in Burlingame, California. ([Glennon slides](https://github.com/arogi/talks/blob/master/foss4gnaOptimization.pdf))([Baez slides](https://github.com/arogi/talks/blob/master/BaezAmbulanceFOSS4GNA.pdf))
